@@ -131,3 +131,9 @@ Change the site name to https://qarjified.netlify.app
 ## Measure performance
 
 https://web.dev/measure/
+
+## Normalize.css
+
+```css
+@import "./normalize.css";
+```
