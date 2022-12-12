@@ -115,3 +115,19 @@ Add `.htmlnanorc` file to the project root.
     "minifySvg": false
 }
 ```
+
+## Deployment with Netlify
+
+Link GitHub repo to Netlify.
+
+Set the build command to `parcel build index.html`.
+
+Set the publish directory to `dist`.
+
+Click `Deploy site`.
+
+Change the site name to https://qarjified.netlify.app
+
+## Measure performance
+
+https://web.dev/measure/
